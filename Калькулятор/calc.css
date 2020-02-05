@@ -1,0 +1,23 @@
+#divv{
+  width:200px;
+  height: 290px;
+}
+.block{
+  width: 50px;
+  height:50px;
+  border: 1px solid white;
+  float:left;
+  box-sizing: border-box;
+  background: orange;
+}
+.block:hover{
+  background: gold;
+}
+#numberblat{
+  width: 194px;
+}
+.hhh {
+  font-size: 40px;
+  font-family: Verdana;
+  margin-left: 10px;
+}
